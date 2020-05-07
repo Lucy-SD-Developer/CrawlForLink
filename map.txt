@@ -1,0 +1,7 @@
+1	http://usaco.org/
+2	http://www.ioinformatics.org
+3	http://www.twosigma.com
+4	http://www.deshaw.com
+5	http://www.ansatzcapital.com
+6	http://www.jumptrading.com
+7	http://www.clemson.edu
